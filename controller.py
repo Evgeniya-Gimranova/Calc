@@ -15,7 +15,7 @@ def button_click():
         value_a = user.input_data()
         value_b = user.input_data()
     
-    print('1 = div; 2 = mult; 3 = sum; 4 = sub')
+    print('1 = sum; 2 = div; 3 = mult; 4 = sub')
     print('выберите функцию: ')
     value_model = int(input('выберите значение: '))
     print()
